@@ -1,0 +1,32 @@
+@theme {
+  --color-plum: #5e2436;
+  --color-plum-dark: #401726;
+  --color-gold: #c29a4b;
+  --color-gold-light: #dcc088;
+  --color-rose: #e7a9af;
+  --color-blush: #f7e6e6;
+  --color-cream: #fbf5ef;
+  --color-ink: #2a1b20;
+
+  --color-primary: #5e2436;
+  --color-primary-foreground: #ffffff;
+  --color-secondary: #c29a4b;
+  --color-secondary-foreground: #2a1b20;
+  --color-destructive: var(--color-red-500);
+  --color-destructive-foreground: #ffffff;
+  --color-muted: #f4ece4;
+  --color-muted-foreground: #8a6f66;
+  --color-accent: #c29a4b;
+  --color-accent-foreground: #ffffff;
+  --color-border: #ecdfd6;
+  --color-input: #ecdfd6;
+  --color-ring: #c29a4b;
+
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Poppins', system-ui, sans-serif;
+
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+}
